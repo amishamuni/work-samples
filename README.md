@@ -11,4 +11,5 @@ As part of my work in implementing Functional Monitoring in the company, i train
 This has the Kibana 3 cheatsheet i produced to reflect the training, and also instructions around a local installation.
 Detailed studies and postmortems of existing solutions within the company are confidential and I am unable to share them.
 
-
+#### Assessment approach
+The excel "My Design Approach" lists aspects i go through in my mind when i am approached for an assessment or to contribute to a design, or simply when i read designs from other members to learn.
