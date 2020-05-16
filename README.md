@@ -13,3 +13,6 @@ Detailed studies and postmortems of existing solutions within the company are co
 
 #### Assessment approach
 The file "My Design Approach" lists some aspects i go through in my mind when i am approached for an assessment or to contribute to a design, or simply when i read designs from other members to learn. It lists my rough approach, and a lot can vary based on my current functional and technical knowhow of the products & stacks i have worked on.
+
+#### Python Scripts
+A couple of recent python scripts created over weekends. These assist with side tasks i handle in my team, with a view to understanding an internal Event structure used in writing custom Drools rules, and also in generating a flat file from nested Event configuration files.
