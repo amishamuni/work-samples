@@ -8,8 +8,11 @@ The brief was to put in place a way to functionally monitor our systems, and i p
 There were competing ideologies, and there was much I had to sift through, evaluate, many people to convince, many options to rule out – before we developed an extensible framework which involved pushing basic transactional data to Elasticsearch, and then visualised it via Kibana.
 
 As part of my work in implementing Functional Monitoring in the company, i trained many people who were in different roles.  
-This has the Kibana 3 cheatsheet i produced to reflect the training, and also instructions around a local installation.
+This has the Kibana 3 cheatsheet i produced to reflect the training, instructions around a local installation and my analysis on recommending Kibana 3 at the time instead of Kibana 4.
 Detailed studies and postmortems of existing solutions within the company are confidential and I am unable to share them.
 
 #### Assessment approach
 The file "My Design Approach" lists some aspects i go through in my mind when i am approached for an assessment or to contribute to a design, or simply when i read designs from other members to learn. It lists my rough approach, and a lot can vary based on my current functional and technical knowhow of the products & stacks i have worked on.
+
+#### Python Scripts
+A couple of recent python scripts created over weekends. These assist with side tasks i handle in my team, with a view to understanding an internal Event structure used in writing custom Drools rules, and also in generating a flat file from nested Event configuration files.
